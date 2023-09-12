@@ -1,0 +1,28 @@
+* {
+    width: 100%;
+}
+body {
+    width: 15%;
+    height: 400px;
+    background-color: antiquewhite;
+    margin:auto;
+    box-sizing: border-box;
+   padding-top: 40px;
+    margin-top: 30px;
+    
+}
+
+h1 {
+    margin-right: 100px;
+}
+
+button {
+   
+    margin-bottom: 15px;
+   
+
+}
+
+input {
+    margin-bottom: 15px;
+}
